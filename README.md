@@ -27,24 +27,24 @@ Finalize and Present the Layout
 Apply Gestalt principles to enhance mobile and web
 layout design.
 
-![Screenshot 2025-04-29 032506](https://github.com/user-attachments/assets/86e2b8d4-2139-43bd-9061-f79464e02091)
-
 Incorporate UI elements and design patterns into the
 layouts.
-
-![WhatsApp Image 2025-04-29 at 03 33 38_f3ce2f7f](https://github.com/user-attachments/assets/505496e6-ae8a-431e-b1f3-4e7796d340d5)
 
 Develop interaction behaviors and usability principles for
 the designs.
 
-![WhatsApp Image 2025-04-29 at 03 41 45_ad1509ac](https://github.com/user-attachments/assets/9fca9e4c-2a43-4079-8f3e-bb389c97d278)
-
 Create a brand logo using Canva, following styling and
 branding guidelines and include it with your layouts.
-
-![WhatsApp Image 2025-04-29 at 03 42 07_7b48c29c](https://github.com/user-attachments/assets/6e7765c3-64b2-4c14-b82f-cfc35681c4e9)
-
 ```
+
+![Screenshot 2025-04-29 032506](https://github.com/user-attachments/assets/e81c43af-1013-4701-adf1-54a28ec0b3df)
+
+![WhatsApp Image 2025-04-29 at 03 33 38_f3ce2f7f](https://github.com/user-attachments/assets/d196de46-8a02-4996-81e2-b15158155491)
+
+![WhatsApp Image 2025-04-29 at 03 41 45_ad1509ac](https://github.com/user-attachments/assets/ba6846a3-9827-46c2-9aa2-78a68c68f264)
+
+![WhatsApp Image 2025-04-29 at 03 42 07_7b48c29c](https://github.com/user-attachments/assets/5b2ca0de-2b51-4c49-b208-19088441631e)
+
 
 ## Result:
 
